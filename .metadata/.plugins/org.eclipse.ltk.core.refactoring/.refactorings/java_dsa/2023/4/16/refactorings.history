@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;java_dsa.basic.PeekArray&apos; to &apos;MountainArray&apos;&#x0D;&#x0A;- Original project: &apos;java_dsa&apos;&#x0D;&#x0A;- Original element: &apos;java_dsa.basic.PeekArray&apos;&#x0D;&#x0A;- Renamed element: &apos;java_dsa.basic.MountainArray&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;PeekArray&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;java_dsa.basic{PeekArray.java[PeekArray" matchStrategy="1" name="MountainArray" qualified="false" references="true" similarDeclarations="false" stamp="1682048120127" textual="false" version="1.0"/>
+</session>

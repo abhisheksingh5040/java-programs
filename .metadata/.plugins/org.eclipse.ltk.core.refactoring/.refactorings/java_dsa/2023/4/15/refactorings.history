@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;java_dsa.basic.sort.CyclicSort&apos; to &apos;java_dsa.basic.sort.CyclicSortQuestions&apos;&#x0D;&#x0A;- Original project: &apos;java_dsa&apos;&#x0D;&#x0A;- Original element: &apos;java_dsa/src/java_dsa.basic.sort.CyclicSort&apos;&#x0D;&#x0A;- Renamed element: &apos;java_dsa/src/java_dsa.basic.sort.CyclicSortQuestions&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;java_dsa.basic.sort.CyclicSort&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;java_dsa.basic.sort.CyclicSort" name="java_dsa.basic.sort.CyclicSortQuestions" qualified="false" references="true" stamp="1681363406638" textual="false" version="1.0"/>
+</session>
